@@ -38,6 +38,8 @@ npm run build
 
 ## Live Demo
 
+https://platzi-video-react.netlify.app/
+
 ## License
 
 This project is licensed under the [MIT License](https://github.com/DaneliaSanchz/PlatziVideo/blob/master/LICENSE).
