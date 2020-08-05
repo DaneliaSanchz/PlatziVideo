@@ -1,4 +1,4 @@
-# Platzi Video
+# 📼 Platzi Video
 
 Platzi Video is an application in which:
 * You can add videos to a list.
@@ -8,11 +8,11 @@ Platzi Video is an application in which:
 There are trends and Platzi's original videos.
 This project was created during the React Router and Redux course on Platzi.
 
-## Screens
+## 💻 Screens
 
 ![Home Screen](https://github.com/DaneliaSanchz/PlatziVideo/blob/master/src/assets/static/Home.png)
 
-## Installation
+## 🛠 Installation
 
 1. Clone the repository
 2. Move to PlatziVideo directory 
@@ -36,10 +36,14 @@ The project listens on http://localhost:8080/
 npm run build
 ```
 
-## Live Demo
+## 🖥 Live Demo
 
 https://platzi-video-react.netlify.app/
 
-## License
+## 📜 License
 
 This project is licensed under the [MIT License](https://github.com/DaneliaSanchz/PlatziVideo/blob/master/LICENSE).
+
+## 🤝 How to contribute
+
+Feel free to contribute to this project. Any feedback is welcome 🙂
